@@ -14,4 +14,4 @@ In Section 4.1, we mention three sets of reference fronts, which are provided fo
 - The improved reference fronts, obtained by running the selected MOEAs for 150,000 FEs with the parameter settings obtained in the previous step: [reimprove-fronts.tar.xz](reimprove-fronts.tar.xz)
 
 The hypervolume for original and improved fronts are provided as a GZip'ed CSV file. The relative improvement is illustrated on the barplot below, where the error bar reflects the variability across different numbers of variables.
-(fronts.png)
+![fronts.png](fronts.png)
