@@ -9,7 +9,8 @@ Leonardo C. T. Bezerra, Manuel López-Ibáñez, and Thomas Stützle. A large-sca
 
 ---
 
-The indicator outputs can be downloaded directly as a [GZip'ed CSV file](indicators.csv.gz), without cloning the entire repo.
+The indicator outputs can be downloaded directly as a [GZip'ed CSV file](indicators.csv.gz), without cloning the entire repo. Note that a [version with fixed tuned M=10 results for MOEA/D](indicators-errata.csv.gz) is also provided, as well as a [CSV file](moead-errata.csv.gz) that can be used for comparing the improvements produced by the fix.
+
 
 In addition, we also provide the [time series data](anytime.csv.gz) used for the anytime analysis of MOEAs we provided in the paper.
 
