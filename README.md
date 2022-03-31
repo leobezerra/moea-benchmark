@@ -4,9 +4,16 @@ This repository gathers the benchmark data produced in the following paper:
 
 Leonardo C. T. Bezerra, Manuel López-Ibáñez, and Thomas Stützle. A large-scale experimental evaluation of high-performing multi- and many-objective evolutionary algorithms. Evolutionary Computation, MIT Press, 2018.
 
+[bibtex](https://lopez-ibanez.eu/LopezIbanez_bib.html#BezLopStu2017assessment) | [DOI](http://doi.org/10.1162/evco_a_00217) | [PDF](https://lopez-ibanez.eu/doc/BezLopStu2017assessment.pdf) | [Supplementary material](http://iridia.ulb.ac.be/supp/IridiaSupp2015-007/)
+
+
+---
+
 The indicator outputs can be downloaded directly as a [GZip'ed CSV file](indicators.csv.gz), without cloning the entire repo.
 
 In addition, we also provide the [time series data](anytime.csv.gz) used for the anytime analysis of MOEAs we provided in the paper.
+
+Finally, we provide irace logs and Rdata files from [tuning](tuning.tar.gz).
 
 ---
 
